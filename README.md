@@ -50,7 +50,6 @@ The dashboard provides insights into market trends, top-selling publishers, and 
 
 ---
 
-## 📂 Repository Structure
 
 ## Creator
 Paras Saini
